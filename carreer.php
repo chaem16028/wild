@@ -10,7 +10,7 @@
 
 
     <!-- debut nav -->
-    <?php require ("headerpage.php") ?>
+    <?php require ("headerpage.php"); ?>
 
 
 
@@ -99,7 +99,7 @@
 
 
     <!-- debut footer -->
-    <?php require ("footerpage.php") ?>
+    <?php require ("footerpage.php"); ?>
 
 
 
