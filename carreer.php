@@ -19,7 +19,7 @@
                     </div>
                     <li class="linav">Techdegree</li>
                     <li class="linav">Teams</li>
-                    <li class="linav1">Sign In</li>
+                    <li class="linav"><a class="signin" href="sign_in.html">Sign In</a></li>
                     <li class="linav2">Free Trial</li>
                 </ul>
             </div>
@@ -123,8 +123,8 @@
         <div class="menu">
             <div class="menu1">
                 <ol>
-                    <li> <a href="about.html">About</a></li>
-                    <li><a href="carreer.html">Careers</a></li>
+                    <li> <a href="about.php">About</a></li>
+                    <li><a href="carreer.php">Careers</a></li>
                     <li> <a href="https://teamtreehouse.com/terms">Terms</a></li>
                     <li><a href="https://teamtreehouse.com/privacy">Privacy</a></li>
                 </ol>

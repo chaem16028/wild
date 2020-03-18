@@ -9,11 +9,6 @@
     flex-direction: row;
 /**Début navbar**/
 
-.logonav {
-    width: 10%;
-    height: 10%;
-}
-
 .logo a {
     font-size: bold;
     text-decoration: none;
@@ -43,7 +38,7 @@
     align-items: center;
     list-style: none;
     width: 100%;
-<<<<<<< HEAD
+
     margin-right: 3%;
 }
 
@@ -51,7 +46,7 @@
     margin: 3%;
 }
 
-.menuj li {}
+
 
 nav li {
     list-style: none;
@@ -236,7 +231,6 @@ footer p {
     margin-right: 10%;
 }
 
-<<<<<<< HEAD
 .treehouse a {
     color: black;
     font-family: 'Baloo Chettan 2', cursive;
