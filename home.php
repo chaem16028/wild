@@ -154,8 +154,8 @@
         <div class="menu">
             <div class="menu1">
                 <ol>
-                    <li> <a href="https://teamtreehouse.com/about">About</a></li>
-                    <li><a href="https://teamtreehouse.com/jobs">Careers</a></li>
+                    <li> <a href="about.php">About</a></li>
+                    <li><a href="carreer.php">Careers</a></li>
                     <li> <a href="https://teamtreehouse.com/terms">Terms</a></li>
                     <li><a href="https://teamtreehouse.com/privacy">Privacy</a></li>
                 </ol>

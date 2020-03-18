@@ -66,12 +66,12 @@
             <div class="treehouse">
                 <ul>
                     <h2>Our Company</h2>
-                    <li><a href="#About_us">About us</a></li>
+                    <li><a href="about.php">About us</a></li>
                     <li><a href="#Contact_us">Contact us</a></li>
                     <li><a href="#Community">Community</a></li>
                     <li><a href="#Treehouse_Stories">Treehouse Stories</a></li>
                     <li><a href="#Affiliate_Program">Affiliate Program</a></li>
-                    <li><a href="#Careers">Careers</a></li>
+                    <li><a href="carreer.php">Careers</a></li>
                 </ul>
             </div>
             <div class="treehouse">

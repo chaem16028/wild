@@ -8,11 +8,11 @@
     display: flex;
     flex-direction: row;
 /**Début navbar**/
-
+}
 .logo a {
     font-size: bold;
     text-decoration: none;
-    color: #fff;
+    color: #FFF;
 }
 
 .logo ul {

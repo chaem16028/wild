@@ -19,7 +19,7 @@
                     </div>
                     <li class="linav">Techdegree</li>
                     <li class="linav">Teams</li>
-                    <li class="linav"><a class="signin" href="sign_in.html">Sign In</a></li>
+                    <li class="linav"><a class="signin" href="sign_in.php">Sign In</a></li>
                     <li class="linav2">Free Trial</li>
                 </ul>
             </div>
