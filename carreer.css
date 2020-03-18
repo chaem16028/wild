@@ -1,19 +1,20 @@
 
-*html,body {
+* {
     margin: 0;
     padding: 0;
+    font-family: 'Baloo Chettan 2', cursive;
 }
  /* debut nav  */
                 
 
 
-.logonav {
+ .logonav {
     width: 9%;
 }
 
 .titre {
     font-size: 2Vh;
-    color: #5FCF80;
+    color: #5fcf80;
     font-weight: bold;
     padding: 2%;
 }
@@ -32,10 +33,9 @@
 }
 
 .linav2 {
-    color: #5FCF80;
+    color: #5fcf80;
     margin: 1vw;
     font-weight: bold;
-    font-family: 'Baloo Chettan 2', cursive;
 }
 
 .linav2:hover {
@@ -45,17 +45,16 @@
 
 .linav {
     margin: 1vw;
-    font-family: 'Baloo Chettan 2', cursive;
-}
-
-.linav1 {
-    margin: 1vw;
-    font-family: 'Baloo Chettan 2', cursive;
 }
 
 .linav:hover {
     font-weight: bold;
     color: grey;
+}
+
+.linav1 {
+    margin 1vw;
+    padding-top: 1%;
 }
 
 .logo {
@@ -74,6 +73,10 @@
     display: inline;
 }
 
+.liennav {
+    position: relative;
+}
+
 .bordernav {
     border-bottom: 2px solid;
     border-color: rgba(232, 236, 241, 0.7);
@@ -84,10 +87,6 @@
     background-color: white;
     width: 100%;
     padding-top: 2vh;
-}
-
-.divlogoburger {
-    display: none;
 }
 /* fin nav */
 
@@ -426,4 +425,64 @@ footer a {
         padding-top: 0.1px;
 
     }
+
+/* navbar*/
+
+    .bordernav {
+        width: 72%;
+    }
+    .logo {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding-top: 2vh;
+        width: 100%;
+        height: auto;
+    }
+    .logo p {
+        display: none;
+    }
+    .bordernav {
+        border-bottom: 2px solid;
+        border-color: rgba(232, 236, 241, 0.7);
+        border-bottom-left-radius: 2%;
+        border-bottom-right-radius: 2%;
+        position: fixed;
+        height: 8vh;
+        background-color: white;
+        width: 100%;
+        padding-top: 2vh;
+    }
+    .linav {
+        display: none;
+    }
+    .titre {
+        display: none;
+    }
+    .linav2 {
+        padding-right: 2vh;
+    }
+    .logonav {
+        width: 7vh;
+    }
+    .divlogoburger {
+        display: flex;
+    }
+    .logoburger {
+        height: 4VH;
+        width: 10VW;
+        margin-right: 230px;
+        margin-top: 7px;
+    }
+    .liensnav {
+        display: flex;
+        justify-content: flex-end;
+    }
+    .linav1 {
+        display: none;
+    }
+
+
+
 }
